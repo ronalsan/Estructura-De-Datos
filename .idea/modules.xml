@@ -3,10 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Estructura-De-Datos.iml" filepath="$PROJECT_DIR$/.idea/Estructura-De-Datos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Listas-simples/Listas-simples.iml" filepath="$PROJECT_DIR$/Listas-simples/Listas-simples.iml" />
       <module fileurl="file://$PROJECT_DIR$/Monitoreo-de-sensores/Monitoreo-de-sensores.iml" filepath="$PROJECT_DIR$/Monitoreo-de-sensores/Monitoreo-de-sensores.iml" />
       <module fileurl="file://$PROJECT_DIR$/Simulacion-financiera/Simulacion-financiera.iml" filepath="$PROJECT_DIR$/Simulacion-financiera/Simulacion-financiera.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sistema-academico-arraylist/Sistema-academico-arraylist.iml" filepath="$PROJECT_DIR$/Sistema-academico-arraylist/Sistema-academico-arraylist.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sistema-calificaciones/Sistema-calificaciones.iml" filepath="$PROJECT_DIR$/Sistema-calificaciones/Sistema-calificaciones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sistema-contacto/Sistema-contacto.iml" filepath="$PROJECT_DIR$/Sistema-contacto/Sistema-contacto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sistema-contacto-Arraylist/Sistema-contacto-Arraylist.iml" filepath="$PROJECT_DIR$/Sistema-contacto-Arraylist/Sistema-contacto-Arraylist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Historial-navegacionn/historial_navegacion.iml" filepath="$PROJECT_DIR$/Historial-navegacionn/historial_navegacion.iml" />
     </modules>
   </component>
 </project>
