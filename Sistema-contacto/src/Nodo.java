@@ -1,3 +1,4 @@
+
 public class Nodo {
     private Contacto dato;
     private Nodo siguiente;
@@ -22,3 +23,13 @@ public class Nodo {
         this.siguiente = siguiente;
     }
 }
+
+public class Nodo {
+    private Contacto dato;
+    Nodo siguiente;
+
+    public Nodo(Contacto dato){
+        this.dato = dato;
+    }
+}
+

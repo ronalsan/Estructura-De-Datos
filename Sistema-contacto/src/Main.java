@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
@@ -24,5 +25,10 @@ public class Main {
 
         lista.listar();
 
+=======
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello world!");
+>>>>>>> 03c8cb23ca5af8096b8cd8c76213f1d5ec6c2f5d
     }
 }

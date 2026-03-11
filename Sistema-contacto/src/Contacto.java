@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 public class Contacto {
     private String nombre;
     private String telefono;
@@ -42,3 +43,27 @@ public class Contacto {
         this.correo = correo;
     }
 }
+=======
+public class Contacto {
+    private String nombre;
+    private String telefono;
+    private String correo;
+
+    public Contacto(String nombre, String telefono, String correo) {
+        this.nombre = nombre;
+        this.telefono = telefono;
+        this.correo = correo;
+    }
+
+    @Override
+    public String toString() {
+        return "Contacto{" +
+                "nombre='" + nombre + '\'' +
+                ", telefono='" + telefono + '\'' +
+                ", correo='" + correo + '\'' +
+                '}';
+    }
+
+
+}
+>>>>>>> 03c8cb23ca5af8096b8cd8c76213f1d5ec6c2f5d
